@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_quote.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\fragment_add_quote.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_navigation_drawer.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_navigation_drawer.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\content_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\quote_item.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\quote_item.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_quote.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\fragment_edit_quote.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_navigation_drawer.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\app_bar_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_navigation_drawer.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\nav_header_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_quote.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\activity_add_quote.xml"
+    },
+    {
+        "merged": "C:\\BralioEstaSalvado\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\BralioEstaSalvado\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    }
+]

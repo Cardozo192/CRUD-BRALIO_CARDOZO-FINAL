@@ -1,0 +1,4 @@
+dagger/hilt/internal/processedrootsentinel/codegen/_dev_cardoso_quotesmvvm_InitApp.java
+ dagger.hilt.internal.processedrootsentinel.codegen._dev_cardoso_quotesmvvm_InitApp
+dev/cardoso/quotesmvvm/InitApp_ComponentTreeDeps.java
+ dev.cardoso.quotesmvvm.InitApp_ComponentTreeDeps
